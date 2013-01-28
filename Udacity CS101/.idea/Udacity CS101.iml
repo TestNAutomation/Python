@@ -4,9 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Python3" />
-    <orderEntry type="module" module-name="Selenium" />
-    <orderEntry type="module" module-name="Udacity CS101" />
   </component>
 </module>
 
