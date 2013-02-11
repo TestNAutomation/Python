@@ -3,9 +3,11 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver import ActionChains
 
+# Mac OS X PATH
+#driver = webdriver.Chrome('/Users/sayem/Dropbox/ChromeDriver/chromedriver')
 
-# Instantiate Firefox browser
-driver = webdriver.Chrome('/Users/sayem/Dropbox/ChromeDriver/chromedriver')
+# Windows PATH
+driver = webdriver.Chrome('C:\Users\Administrator\Dropbox\ChromeDriver\cchromedriver.exe')
 
 # Go to URL
 driver.get("http://www.totsy.com")
