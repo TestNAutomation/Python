@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Coursera CS101/.idea/Coursera CS101.iml" filepath="$PROJECT_DIR$/Coursera CS101/.idea/Coursera CS101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coursera/Coursera.iml" filepath="$PROJECT_DIR$/Coursera/Coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandsOnPython/HandsOnPython.iml" filepath="$PROJECT_DIR$/HandsOnPython/HandsOnPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnPythonHardWay/LearnPythonHardWay.iml" filepath="$PROJECT_DIR$/LearnPythonHardWay/LearnPythonHardWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Marakana/Marakana.iml" filepath="$PROJECT_DIR$/Marakana/Marakana.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python2/Python2.iml" filepath="$PROJECT_DIR$/Python2/Python2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python3/Python3.iml" filepath="$PROJECT_DIR$/Python3/Python3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udacity/Udacity.iml" filepath="$PROJECT_DIR$/Udacity/Udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebDriver/WebDriver.iml" filepath="$PROJECT_DIR$/WebDriver/WebDriver.iml" />
     </modules>
   </component>
 </project>
