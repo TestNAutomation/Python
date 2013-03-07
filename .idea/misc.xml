@@ -2,9 +2,6 @@
 <project version="4">
   <component name="CppTools.Loader" reportImplicitCastToBool="false" reportNameReferencedOnce="false" version="3" compilerSelect="AUTO" />
   <component name="IdProvider" IDEtalkID="1C3E36AD5D9CAA411C7B6B77B365EE5B" />
-  <component name="ProjectResources">
-    <default-html-doctype>jar:file:\C:\Program Files (x86)\JetBrains\PyCharm 2.6.3\lib\pycharm.jar!\resources\html5-schema\html5.rnc</default-html-doctype>
-  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" project-jdk-name="Python 2.7.3 (C:/Python27/python.exe)" project-jdk-type="Python SDK" />
 </project>
 
