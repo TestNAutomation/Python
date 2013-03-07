@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CBTPython/CBTPython.iml" filepath="$PROJECT_DIR$/CBTPython/CBTPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codecademy/Codecademy.iml" filepath="$PROJECT_DIR$/Codecademy/Codecademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingBat/CodingBat.iml" filepath="$PROJECT_DIR$/CodingBat/CodingBat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Coursera/Coursera.iml" filepath="$PROJECT_DIR$/Coursera/Coursera.iml" />
       <module fileurl="file://$PROJECT_DIR$/HandsOnPython/HandsOnPython.iml" filepath="$PROJECT_DIR$/HandsOnPython/HandsOnPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/KhanAcademy/KhanAcademy.iml" filepath="$PROJECT_DIR$/KhanAcademy/KhanAcademy.iml" />
